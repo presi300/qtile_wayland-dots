@@ -1,0 +1,5 @@
+
+profile dingus {
+	output "Philips Consumer Electronics Company 27M1C5500V AU02236002420" mode 2560x1440@165Hz position 1680,0
+	output "LG Electronics L226W 0x0000FD60" mode 1680x1050@59.882999Hz position 0,0
+}
