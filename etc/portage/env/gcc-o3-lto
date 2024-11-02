@@ -1,0 +1,9 @@
+COMMON_FLAGS="-O3 -fno-semantic-interposition -fipa-pta -fdevirtualize-at-ltrans -floop-block -fgraphite-identity -floop-parallelize-all -fomit-frame-pointer -fno-semantic-interposition -march=native -mtune=native -flto=auto -pipe"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+FCFLAGS="${COMMON_FLAGS}"
+FFLAGS="${COMMON_FLAGS}"
+
+
+
+
